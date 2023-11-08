@@ -4,7 +4,7 @@ public class Main {
     if (time < 18) {
       System.out.println("Good day my friends.");
     } else {
-      System.out.println("Good evening all leute.");
+      System.out.println("Good yo evening all leute.");
     }  
   }
 }# javatest
