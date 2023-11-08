@@ -6,7 +6,7 @@ import java.until.Random;
 String[]rps={"r" , "p" , "s"};
 String computerMOVE = rps[new Random().nextInt(rps.lenght)];
 Scanner scanner = new Scanner(System.in);
-String playMove;
+String playMove; 
 
 
 
